@@ -1,7 +1,7 @@
-# conversorvue
+# Conversor Vue
 
 <p align="center" >
-  <img alt="Conversor" src=".github/capa.png" width="500px">
+  <img alt="Conversor" src="./capa.png" width="500px">
 </p>
 
 ## 💻 Projeto
@@ -32,5 +32,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
